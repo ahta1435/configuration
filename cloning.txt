@@ -1,0 +1,11 @@
+git clone Repo_link --> used to clone/pull the repo 
+  from the remote server to the locla machine
+
+----
+ touch filename --> used to create the file 
+
+----
+notepad fileName --> used to open the filename in the notepad
+
+
+------
