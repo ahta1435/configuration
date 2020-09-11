@@ -1,0 +1,33 @@
+git init--> used to initialize the folder ,it creates the .git file into the repository
+                  and then only the git will start listening to the changes
+---
+
+git add .  --> used to add the folder to the repository
+
+
+----
+
+git commit -m "commit message" --> used to commit the changes to the repository with a commit message
+
+
+----
+
+git status   --> gives the statsus of all the file folder, the folder that get updated the folder which has got added and the file which got deleted
+
+
+----
+
+git log ---> gives all the commit history with the latest commit at the top
+
+
+----
+
+git  remote  add origin  server_Repo_url ---> add the repository to the server for the first time 
+
+
+---
+ git push -u origin branch_name --> used to push the repository to the server
+
+--- 
+
+git push --> command is used to push the current commit to the curent branch where we are standing 
