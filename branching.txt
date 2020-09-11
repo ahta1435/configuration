@@ -1,0 +1,25 @@
+git branch branch_name --> used to create the branch with the givrn branch name
+
+----
+
+git checkout branchName --> used to go to the provided branchName
+
+
+----
+
+git branch -v --> gives the list of all the branches with * sign over the branch where you are currently on
+
+
+----
+
+git merge branch_name --> used to merge the content of the branch name with the master branch 
+
+
+---
+
+git branch -D branch_Name --> used to delete the branch in the local machine ,we have  to insure that we must not be on the deleting branch while deleteing
+
+
+----
+
+git push origin --delete branch_name --> to delete the branch from the remote server
