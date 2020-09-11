@@ -1,0 +1,9 @@
+git reset --soft commitID
+--> this command is used to undo the changes which is specific to the local repo it is not a good way to do in case of the server
+--soft--> takes cares of the things which re done after that commit id which we want to reset
+--used only when the changes are local not to the server---
+
+
+git revert commitId --> reverting a commit by adding a new commit
+  
+it is used when the changes are not local 
