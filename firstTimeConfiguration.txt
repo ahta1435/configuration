@@ -1,0 +1,18 @@
+git config --global user.name "USerName"-->for the firstTime configuration
+
+
+------
+
+
+git config --global user.email emailoftheUser -->provide the email without the double quotes
+
+
+
+------
+git config --list  --> checks the configuration
+
+
+----
+
+
+pwd --> used to open the directory
